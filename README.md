@@ -46,7 +46,7 @@ This is the extended version of Nano processor: [Nano Processor-Version 1](https
 ## Contributors
 - [nchehan](https://github.com/nchehan)
 - [ShanthishaShyamana](https://github.com/ShanthishaShyamana)
-- [PasinduRavishan](https://github.com/PasinduRavishan)
+- [InduwaraRathnayake](https://github.com/InduwaraRathnayake)
 
 ---
 
